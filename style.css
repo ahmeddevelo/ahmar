@@ -1,0 +1,137 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+nav .nav {
+    height: 70px;
+    background-color: rgb(70, 20, 117);
+    font-size: 25px;
+    font-family: 'Amita', cursive;
+    font-family: 'El Messiri', sans-serif;
+    font-family: 'Readex Pro', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: bisque;
+}
+
+nav .nav i {
+    color: red;
+}
+
+
+body {
+    background-image: url(images/background.jpg);
+}
+
+.background p {
+    font-size: 30px;
+    font-family: 'Readex Pro', sans-serif;
+    margin: 290px 15px;
+    width: 310px;
+}
+
+.one {
+    background-color: rgb(26, 25, 25);
+}
+
+.one .words {
+    color: #edd5d5;
+    font-size: 25px;
+    font-family: 'El Messiri', sans-serif;
+    margin: 15px;
+}
+
+.one img {
+    width: 300px;
+    margin-right: 40px;
+    border-radius: 4px;
+    border: 3px solid #461475;
+}
+
+.one hr {
+    margin: 20px 10px;
+    border: 1px solid white;
+}
+
+.one .face {
+    color: white;
+    font-family: 'El Messiri', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(26, 25, 25);
+}
+
+.books {
+    display: flow-root;
+    background-color: #edd5d5;
+}
+
+.books .one1 {
+    margin: 20px;
+    font-size: 25px;
+    font-family: 'Readex Pro', sans-serif;
+}
+
+.books .two2 {
+    font-family: 'Readex Pro', sans-serif;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.books .nr {
+    margin: 20px 50px;
+    border: 1px solid #461475;
+}
+
+.books .first p {
+    text-align: center;
+    font-size: 50px;
+    margin: 10px;
+}
+
+.books .first img {
+    width: 300px;
+    height: 500px;
+    margin-right: 44px;
+}
+
+.books .first a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    margin: 15px 130px;
+    background-color: #d74283;
+    padding: 25px;
+    border-radius: 7px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Readex Pro', sans-serif;
+}
+
+.end {
+    display: flow-root;
+    background-color: #461475;
+}
+
+.end p {
+    color: white;
+    font-size: 23px;
+    font-family: 'Readex Pro', sans-serif;
+    margin: 30px;
+}
+
+.nnm {
+    border: 2px solid #1a1919;
+}
+
+.end audio {
+    margin-right: 40px;
+}
+
+.end i {
+    color: red;
+}
